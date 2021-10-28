@@ -3,7 +3,7 @@ from ursina.prefabs.first_person_controller import FirstPersonController
 from ursina import models
 from perlin_noise import PerlinNoise
 app = Ursina(borderless = False)
-window.title = 'Minceraft'
+window.title = 'Mineraft'
 
 # Choosing between blocks
 def update():
